@@ -1,0 +1,96 @@
+[26-Mar-2021 18:50:31 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[26-Mar-2021 18:50:32 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[26-Mar-2021 18:50:42 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home1/lormanmy/public_html/lasirene/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[26-Mar-2021 18:50:42 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home1/lormanmy/public_html/lasirene/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[26-Mar-2021 18:50:43 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[26-Mar-2021 18:50:44 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[09-Apr-2021 18:49:27 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home1/lormanmy/public_html/lasirene/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[09-Apr-2021 18:49:28 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home1/lormanmy/public_html/lasirene/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[09-Apr-2021 18:49:30 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[09-Apr-2021 18:49:30 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[09-Apr-2021 18:49:31 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[09-Apr-2021 18:49:32 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[10-Apr-2021 18:52:26 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home1/lormanmy/public_html/lasirene/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[10-Apr-2021 18:52:26 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home1/lormanmy/public_html/lasirene/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[27-May-2021 18:49:26 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[27-May-2021 18:49:26 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[04-Aug-2021 18:52:35 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[04-Aug-2021 18:52:35 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[04-Aug-2021 18:52:43 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[04-Aug-2021 18:52:43 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[04-Aug-2021 18:52:44 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home1/lormanmy/public_html/lasirene/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[04-Aug-2021 18:52:44 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home1/lormanmy/public_html/lasirene/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[05-Aug-2021 18:54:40 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[05-Aug-2021 18:54:40 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7

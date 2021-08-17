@@ -1,0 +1,24 @@
+[26-Mar-2021 18:50:33 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home1/lormanmy/public_html/lasirene/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Console/Kernel.php on line 8
+[26-Mar-2021 18:50:33 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home1/lormanmy/public_html/lasirene/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Console/Kernel.php on line 8
+[25-May-2021 18:52:15 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home1/lormanmy/public_html/lasirene/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Console/Kernel.php on line 8
+[25-May-2021 18:52:16 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home1/lormanmy/public_html/lasirene/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Console/Kernel.php on line 8
+[17-Jul-2021 18:53:51 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home1/lormanmy/public_html/lasirene/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Console/Kernel.php on line 8
+[17-Jul-2021 18:53:52 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home1/lormanmy/public_html/lasirene/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Console/Kernel.php on line 8

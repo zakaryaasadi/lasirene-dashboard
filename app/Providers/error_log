@@ -1,0 +1,72 @@
+[02-Apr-2021 18:54:19 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home1/lormanmy/public_html/lasirene/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Providers/RouteServiceProvider.php on line 11
+[02-Apr-2021 18:54:19 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home1/lormanmy/public_html/lasirene/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Providers/RouteServiceProvider.php on line 11
+[16-May-2021 19:07:07 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home1/lormanmy/public_html/lasirene/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Providers/EventServiceProvider.php on line 10
+[16-May-2021 19:07:07 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home1/lormanmy/public_html/lasirene/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Providers/EventServiceProvider.php on line 10
+[16-May-2021 19:07:07 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home1/lormanmy/public_html/lasirene/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Providers/AuthServiceProvider.php on line 8
+[16-May-2021 19:07:08 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home1/lormanmy/public_html/lasirene/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Providers/AuthServiceProvider.php on line 8
+[16-May-2021 19:07:10 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home1/lormanmy/public_html/lasirene/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Providers/RouteServiceProvider.php on line 11
+[16-May-2021 19:07:10 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home1/lormanmy/public_html/lasirene/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Providers/RouteServiceProvider.php on line 11
+[18-May-2021 19:16:37 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home1/lormanmy/public_html/lasirene/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Providers/RouteServiceProvider.php on line 11
+[18-May-2021 19:16:38 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home1/lormanmy/public_html/lasirene/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Providers/RouteServiceProvider.php on line 11
+[18-May-2021 19:16:40 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home1/lormanmy/public_html/lasirene/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Providers/AuthServiceProvider.php on line 8
+[18-May-2021 19:16:40 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home1/lormanmy/public_html/lasirene/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Providers/AuthServiceProvider.php on line 8
+[25-May-2021 18:52:29 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home1/lormanmy/public_html/lasirene/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Providers/RouteServiceProvider.php on line 11
+[25-May-2021 18:52:29 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home1/lormanmy/public_html/lasirene/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Providers/RouteServiceProvider.php on line 11
+[25-May-2021 18:52:35 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home1/lormanmy/public_html/lasirene/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Providers/AuthServiceProvider.php on line 8
+[25-May-2021 18:52:35 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home1/lormanmy/public_html/lasirene/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Providers/AuthServiceProvider.php on line 8
+[25-May-2021 18:52:38 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home1/lormanmy/public_html/lasirene/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Providers/AppServiceProvider.php on line 7
+[25-May-2021 18:52:38 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home1/lormanmy/public_html/lasirene/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Providers/AppServiceProvider.php on line 7

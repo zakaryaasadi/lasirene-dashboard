@@ -1,0 +1,16 @@
+[07-Aug-2021 18:49:31 America/Boise] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home1/lormanmy/public_html/lasirene/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/tests/Unit/ExampleTest.php on line 7
+[07-Aug-2021 18:49:32 America/Boise] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home1/lormanmy/public_html/lasirene/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/tests/Unit/ExampleTest.php on line 7
+[08-Aug-2021 18:55:34 America/Boise] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home1/lormanmy/public_html/lasirene/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/tests/Unit/ExampleTest.php on line 7
+[08-Aug-2021 18:55:34 America/Boise] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home1/lormanmy/public_html/lasirene/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/tests/Unit/ExampleTest.php on line 7

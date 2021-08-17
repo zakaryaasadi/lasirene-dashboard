@@ -1,0 +1,56 @@
+[05-Mar-2021 18:49:18 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home1/lormanmy/public_html/lasirene/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Exceptions/Handler.php on line 8
+[05-Mar-2021 18:49:18 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home1/lormanmy/public_html/lasirene/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Exceptions/Handler.php on line 8
+[06-Mar-2021 18:52:48 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home1/lormanmy/public_html/lasirene/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Exceptions/Handler.php on line 8
+[06-Mar-2021 18:52:48 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home1/lormanmy/public_html/lasirene/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Exceptions/Handler.php on line 8
+[11-May-2021 18:53:42 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home1/lormanmy/public_html/lasirene/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Exceptions/Handler.php on line 8
+[11-May-2021 18:53:42 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home1/lormanmy/public_html/lasirene/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Exceptions/Handler.php on line 8
+[12-May-2021 18:46:42 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home1/lormanmy/public_html/lasirene/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Exceptions/Handler.php on line 8
+[12-May-2021 18:46:42 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home1/lormanmy/public_html/lasirene/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Exceptions/Handler.php on line 8
+[14-May-2021 19:16:18 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home1/lormanmy/public_html/lasirene/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Exceptions/Handler.php on line 8
+[14-May-2021 19:16:19 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home1/lormanmy/public_html/lasirene/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Exceptions/Handler.php on line 8
+[30-Jul-2021 19:15:30 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home1/lormanmy/public_html/lasirene/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Exceptions/Handler.php on line 8
+[30-Jul-2021 19:15:30 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home1/lormanmy/public_html/lasirene/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Exceptions/Handler.php on line 8
+[31-Jul-2021 18:50:09 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home1/lormanmy/public_html/lasirene/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Exceptions/Handler.php on line 8
+[31-Jul-2021 18:50:09 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home1/lormanmy/public_html/lasirene/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Exceptions/Handler.php on line 8

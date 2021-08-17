@@ -1,0 +1,40 @@
+[19-Jun-2021 18:49:51 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home1/lormanmy/public_html/lasirene/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/tests/Feature/ExampleTest.php on line 8
+[19-Jun-2021 18:49:51 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home1/lormanmy/public_html/lasirene/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/tests/Feature/ExampleTest.php on line 8
+[02-Jul-2021 18:47:32 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home1/lormanmy/public_html/lasirene/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/tests/Feature/ExampleTest.php on line 8
+[02-Jul-2021 18:47:33 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home1/lormanmy/public_html/lasirene/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/tests/Feature/ExampleTest.php on line 8
+[03-Jul-2021 18:54:06 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home1/lormanmy/public_html/lasirene/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/tests/Feature/ExampleTest.php on line 8
+[03-Jul-2021 18:54:06 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home1/lormanmy/public_html/lasirene/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/tests/Feature/ExampleTest.php on line 8
+[17-Jul-2021 18:53:57 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home1/lormanmy/public_html/lasirene/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/tests/Feature/ExampleTest.php on line 8
+[17-Jul-2021 18:53:57 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home1/lormanmy/public_html/lasirene/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/tests/Feature/ExampleTest.php on line 8
+[18-Jul-2021 18:52:28 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home1/lormanmy/public_html/lasirene/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/tests/Feature/ExampleTest.php on line 8
+[18-Jul-2021 18:52:28 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home1/lormanmy/public_html/lasirene/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/tests/Feature/ExampleTest.php on line 8

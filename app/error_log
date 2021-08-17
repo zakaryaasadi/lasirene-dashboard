@@ -1,0 +1,936 @@
+[03-Mar-2021 18:52:07 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php on line 7
+[03-Mar-2021 18:52:07 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php on line 7
+[04-Mar-2021 18:48:42 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php on line 7
+[04-Mar-2021 18:48:42 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php on line 7
+[04-Mar-2021 18:48:47 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/Product.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Product.php on line 7
+[04-Mar-2021 18:48:48 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/Product.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Product.php on line 7
+[04-Mar-2021 18:48:48 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/News.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/News.php on line 5
+[04-Mar-2021 18:48:48 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/News.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/News.php on line 5
+[04-Mar-2021 18:48:49 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Booking.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Booking.php on line 8
+[04-Mar-2021 18:48:49 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Booking.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Booking.php on line 8
+[05-Mar-2021 18:49:13 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/Product.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Product.php on line 7
+[05-Mar-2021 18:49:13 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/Product.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Product.php on line 7
+[05-Mar-2021 18:49:21 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[05-Mar-2021 18:49:21 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[05-Mar-2021 18:49:23 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php on line 8
+[05-Mar-2021 18:49:23 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php on line 8
+[26-Mar-2021 18:50:28 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Booking.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Booking.php on line 8
+[26-Mar-2021 18:50:29 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Booking.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Booking.php on line 8
+[26-Mar-2021 18:50:30 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BaseModel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BaseModel.php on line 8
+[26-Mar-2021 18:50:31 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BaseModel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BaseModel.php on line 8
+[26-Mar-2021 18:50:34 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/Product.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Product.php on line 7
+[26-Mar-2021 18:50:34 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/Product.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Product.php on line 7
+[26-Mar-2021 18:50:37 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Customer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Customer.php on line 9
+[26-Mar-2021 18:50:38 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Customer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Customer.php on line 9
+[26-Mar-2021 18:50:39 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/Service.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Service.php on line 7
+[26-Mar-2021 18:50:39 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/Service.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Service.php on line 7
+[26-Mar-2021 18:50:40 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/CustomerType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/CustomerType.php on line 7
+[26-Mar-2021 18:50:40 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/CustomerType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/CustomerType.php on line 7
+[26-Mar-2021 18:50:41 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[26-Mar-2021 18:50:41 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[28-Mar-2021 18:53:31 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Customer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Customer.php on line 9
+[28-Mar-2021 18:53:31 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Customer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Customer.php on line 9
+[29-Mar-2021 18:49:17 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Customer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Customer.php on line 9
+[29-Mar-2021 18:49:18 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Customer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Customer.php on line 9
+[01-Apr-2021 18:52:52 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/Product.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Product.php on line 7
+[01-Apr-2021 18:52:52 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/Product.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Product.php on line 7
+[01-Apr-2021 18:52:54 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php on line 7
+[01-Apr-2021 18:52:54 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php on line 7
+[08-Apr-2021 18:54:45 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BaseModel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BaseModel.php on line 8
+[08-Apr-2021 18:54:46 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BaseModel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BaseModel.php on line 8
+[08-Apr-2021 18:54:49 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Booking.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Booking.php on line 8
+[08-Apr-2021 18:54:50 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Booking.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Booking.php on line 8
+[09-Apr-2021 18:49:20 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Booking.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Booking.php on line 8
+[09-Apr-2021 18:49:20 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Booking.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Booking.php on line 8
+[15-Apr-2021 18:56:19 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[15-Apr-2021 18:56:20 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[25-Apr-2021 18:51:22 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Booking.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Booking.php on line 8
+[25-Apr-2021 18:51:23 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Booking.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Booking.php on line 8
+[25-Apr-2021 18:51:28 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Language.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Language.php on line 8
+[25-Apr-2021 18:51:29 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Language.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Language.php on line 8
+[25-Apr-2021 18:51:30 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[25-Apr-2021 18:51:31 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[25-Apr-2021 18:51:36 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php on line 7
+[25-Apr-2021 18:51:37 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php on line 7
+[25-Apr-2021 18:51:42 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/Product.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Product.php on line 7
+[25-Apr-2021 18:51:42 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/Product.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Product.php on line 7
+[25-Apr-2021 18:51:44 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php on line 8
+[25-Apr-2021 18:51:44 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php on line 8
+[06-May-2021 18:52:46 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php on line 7
+[06-May-2021 18:52:46 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php on line 7
+[06-May-2021 18:52:48 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Language.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Language.php on line 8
+[06-May-2021 18:52:48 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Language.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Language.php on line 8
+[07-May-2021 18:47:41 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/CustomerType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/CustomerType.php on line 7
+[07-May-2021 18:47:41 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/CustomerType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/CustomerType.php on line 7
+[07-May-2021 18:47:42 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[07-May-2021 18:47:43 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[07-May-2021 18:47:45 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/Product.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Product.php on line 7
+[07-May-2021 18:47:45 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/Product.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Product.php on line 7
+[07-May-2021 18:47:45 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Booking.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Booking.php on line 8
+[07-May-2021 18:47:46 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Booking.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Booking.php on line 8
+[08-May-2021 18:49:10 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/Product.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Product.php on line 7
+[08-May-2021 18:49:11 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/Product.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Product.php on line 7
+[08-May-2021 18:49:11 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Booking.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Booking.php on line 8
+[08-May-2021 18:49:11 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Booking.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Booking.php on line 8
+[08-May-2021 18:49:13 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[08-May-2021 18:49:13 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[08-May-2021 18:49:15 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/News.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/News.php on line 5
+[08-May-2021 18:49:15 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/News.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/News.php on line 5
+[09-May-2021 18:50:48 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/News.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/News.php on line 5
+[09-May-2021 18:50:49 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/News.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/News.php on line 5
+[09-May-2021 18:50:49 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Language.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Language.php on line 8
+[09-May-2021 18:50:50 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Language.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Language.php on line 8
+[09-May-2021 18:50:50 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php on line 7
+[09-May-2021 18:50:50 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php on line 7
+[09-May-2021 18:50:51 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[09-May-2021 18:50:52 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[09-May-2021 18:50:52 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Booking.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Booking.php on line 8
+[09-May-2021 18:50:53 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Booking.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Booking.php on line 8
+[09-May-2021 18:50:53 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/CustomerType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/CustomerType.php on line 7
+[09-May-2021 18:50:54 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/CustomerType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/CustomerType.php on line 7
+[09-May-2021 18:50:54 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/Product.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Product.php on line 7
+[09-May-2021 18:50:55 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/Product.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Product.php on line 7
+[10-May-2021 18:53:44 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[10-May-2021 18:53:45 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[10-May-2021 18:53:45 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Booking.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Booking.php on line 8
+[10-May-2021 18:53:45 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Booking.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Booking.php on line 8
+[11-May-2021 18:53:36 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php on line 8
+[11-May-2021 18:53:37 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php on line 8
+[11-May-2021 18:53:37 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BaseModel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BaseModel.php on line 8
+[11-May-2021 18:53:38 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BaseModel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BaseModel.php on line 8
+[11-May-2021 18:53:38 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Language.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Language.php on line 8
+[11-May-2021 18:53:39 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Language.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Language.php on line 8
+[11-May-2021 18:53:41 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php on line 7
+[11-May-2021 18:53:41 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php on line 7
+[11-May-2021 18:53:43 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Customer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Customer.php on line 9
+[11-May-2021 18:53:43 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Customer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Customer.php on line 9
+[12-May-2021 18:46:33 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BaseModel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BaseModel.php on line 8
+[12-May-2021 18:46:33 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BaseModel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BaseModel.php on line 8
+[12-May-2021 18:46:44 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php on line 8
+[12-May-2021 18:46:44 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php on line 8
+[12-May-2021 18:46:48 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php on line 7
+[12-May-2021 18:46:49 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php on line 7
+[12-May-2021 18:46:49 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[12-May-2021 18:46:50 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[13-May-2021 18:49:05 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php on line 7
+[13-May-2021 18:49:05 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php on line 7
+[13-May-2021 18:49:06 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BaseModel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BaseModel.php on line 8
+[13-May-2021 18:49:06 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BaseModel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BaseModel.php on line 8
+[14-May-2021 19:16:15 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/News.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/News.php on line 5
+[14-May-2021 19:16:15 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/News.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/News.php on line 5
+[14-May-2021 19:16:16 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php on line 8
+[14-May-2021 19:16:16 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php on line 8
+[14-May-2021 19:16:17 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/Service.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Service.php on line 7
+[14-May-2021 19:16:17 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/Service.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Service.php on line 7
+[14-May-2021 19:16:18 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/CustomerType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/CustomerType.php on line 7
+[14-May-2021 19:16:18 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/CustomerType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/CustomerType.php on line 7
+[14-May-2021 19:16:19 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[14-May-2021 19:16:19 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[15-May-2021 19:58:36 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/CustomerType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/CustomerType.php on line 7
+[15-May-2021 19:58:37 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/CustomerType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/CustomerType.php on line 7
+[15-May-2021 19:58:37 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[15-May-2021 19:58:38 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[15-May-2021 19:58:38 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/News.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/News.php on line 5
+[15-May-2021 19:58:38 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/News.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/News.php on line 5
+[15-May-2021 19:58:40 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Booking.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Booking.php on line 8
+[15-May-2021 19:58:40 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Booking.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Booking.php on line 8
+[15-May-2021 19:58:41 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BaseModel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BaseModel.php on line 8
+[15-May-2021 19:58:41 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BaseModel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BaseModel.php on line 8
+[15-May-2021 19:58:44 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/Product.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Product.php on line 7
+[15-May-2021 19:58:44 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/Product.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Product.php on line 7
+[15-May-2021 19:58:45 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Customer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Customer.php on line 9
+[15-May-2021 19:58:45 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Customer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Customer.php on line 9
+[16-May-2021 19:07:02 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BaseModel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BaseModel.php on line 8
+[16-May-2021 19:07:02 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BaseModel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BaseModel.php on line 8
+[16-May-2021 19:07:03 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php on line 8
+[16-May-2021 19:07:04 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php on line 8
+[16-May-2021 19:07:04 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[16-May-2021 19:07:04 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[16-May-2021 19:07:06 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php on line 7
+[16-May-2021 19:07:06 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php on line 7
+[16-May-2021 19:07:08 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/CustomerType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/CustomerType.php on line 7
+[16-May-2021 19:07:09 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/CustomerType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/CustomerType.php on line 7
+[17-May-2021 19:16:04 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php on line 7
+[17-May-2021 19:16:04 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php on line 7
+[17-May-2021 19:16:04 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php on line 8
+[17-May-2021 19:16:05 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php on line 8
+[25-May-2021 18:52:09 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/Product.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Product.php on line 7
+[25-May-2021 18:52:10 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/Product.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Product.php on line 7
+[25-May-2021 18:52:20 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/CustomerType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/CustomerType.php on line 7
+[25-May-2021 18:52:20 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/CustomerType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/CustomerType.php on line 7
+[25-May-2021 18:52:23 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Language.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Language.php on line 8
+[25-May-2021 18:52:23 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Language.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Language.php on line 8
+[25-May-2021 18:52:31 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Customer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Customer.php on line 9
+[25-May-2021 18:52:31 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Customer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Customer.php on line 9
+[25-May-2021 18:52:32 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BaseModel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BaseModel.php on line 8
+[25-May-2021 18:52:32 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BaseModel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BaseModel.php on line 8
+[26-May-2021 18:48:08 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/Product.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Product.php on line 7
+[26-May-2021 18:48:08 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/Product.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Product.php on line 7
+[26-May-2021 18:48:12 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/News.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/News.php on line 5
+[26-May-2021 18:48:12 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/News.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/News.php on line 5
+[26-May-2021 18:48:12 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BaseModel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BaseModel.php on line 8
+[26-May-2021 18:48:13 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BaseModel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BaseModel.php on line 8
+[27-May-2021 18:49:23 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/News.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/News.php on line 5
+[27-May-2021 18:49:23 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/News.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/News.php on line 5
+[30-Jun-2021 18:46:56 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[30-Jun-2021 18:46:57 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[01-Jul-2021 18:46:56 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[01-Jul-2021 18:46:56 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[12-Jul-2021 18:54:39 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/CustomerType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/CustomerType.php on line 7
+[12-Jul-2021 18:54:39 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/CustomerType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/CustomerType.php on line 7
+[13-Jul-2021 18:53:40 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/CustomerType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/CustomerType.php on line 7
+[13-Jul-2021 18:53:41 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/CustomerType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/CustomerType.php on line 7
+[15-Jul-2021 18:53:16 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php on line 8
+[15-Jul-2021 18:53:17 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php on line 8
+[15-Jul-2021 18:53:18 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BaseModel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BaseModel.php on line 8
+[15-Jul-2021 18:53:19 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BaseModel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BaseModel.php on line 8
+[15-Jul-2021 18:53:19 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Booking.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Booking.php on line 8
+[15-Jul-2021 18:53:20 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Booking.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Booking.php on line 8
+[16-Jul-2021 18:46:35 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Booking.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Booking.php on line 8
+[16-Jul-2021 18:46:35 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Booking.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Booking.php on line 8
+[16-Jul-2021 18:46:37 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BaseModel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BaseModel.php on line 8
+[16-Jul-2021 18:46:37 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BaseModel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BaseModel.php on line 8
+[16-Jul-2021 18:46:42 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/Service.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Service.php on line 7
+[16-Jul-2021 18:46:43 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/Service.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Service.php on line 7
+[23-Jul-2021 18:49:18 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Language.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Language.php on line 8
+[23-Jul-2021 18:49:18 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Language.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Language.php on line 8
+[23-Jul-2021 18:49:19 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Booking.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Booking.php on line 8
+[23-Jul-2021 18:49:19 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Booking.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Booking.php on line 8
+[23-Jul-2021 18:49:22 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[23-Jul-2021 18:49:22 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[23-Jul-2021 18:49:24 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/CustomerType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/CustomerType.php on line 7
+[23-Jul-2021 18:49:24 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/CustomerType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/CustomerType.php on line 7
+[24-Jul-2021 18:47:44 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/CustomerType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/CustomerType.php on line 7
+[24-Jul-2021 18:47:44 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/CustomerType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/CustomerType.php on line 7
+[24-Jul-2021 18:47:53 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Language.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Language.php on line 8
+[24-Jul-2021 18:47:53 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Language.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Language.php on line 8
+[24-Jul-2021 18:47:53 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Booking.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Booking.php on line 8
+[24-Jul-2021 18:47:54 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Booking.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Booking.php on line 8
+[24-Jul-2021 18:47:54 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[24-Jul-2021 18:47:55 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[24-Jul-2021 18:47:55 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php on line 8
+[24-Jul-2021 18:47:56 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php on line 8
+[24-Jul-2021 18:48:01 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Customer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Customer.php on line 9
+[24-Jul-2021 18:48:02 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Customer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Customer.php on line 9
+[24-Jul-2021 18:48:09 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php on line 7
+[24-Jul-2021 18:48:09 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/ProductDetail.php on line 7
+[24-Jul-2021 18:48:13 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BaseModel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BaseModel.php on line 8
+[24-Jul-2021 18:48:14 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BaseModel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BaseModel.php on line 8
+[29-Jul-2021 18:53:10 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/CustomerType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/CustomerType.php on line 7
+[29-Jul-2021 18:53:10 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/CustomerType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/CustomerType.php on line 7
+[29-Jul-2021 18:53:11 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Language.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Language.php on line 8
+[29-Jul-2021 18:53:12 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Language.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Language.php on line 8
+[29-Jul-2021 18:53:12 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BaseModel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BaseModel.php on line 8
+[29-Jul-2021 18:53:13 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BaseModel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BaseModel.php on line 8
+[30-Jul-2021 19:15:28 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/CustomerType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/CustomerType.php on line 7
+[30-Jul-2021 19:15:29 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\BaseModel' not found in /home1/lormanmy/public_html/lasirene/app/CustomerType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/CustomerType.php on line 7
+[30-Jul-2021 19:15:29 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Language.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Language.php on line 8
+[30-Jul-2021 19:15:30 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Language.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Language.php on line 8
+[01-Aug-2021 18:54:47 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php on line 8
+[01-Aug-2021 18:54:47 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BookingDetail.php on line 8
+[01-Aug-2021 18:54:48 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[01-Aug-2021 18:54:48 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/LocalizedProperty.php on line 8
+[01-Aug-2021 18:54:51 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BaseModel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BaseModel.php on line 8
+[01-Aug-2021 18:54:52 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/BaseModel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/BaseModel.php on line 8

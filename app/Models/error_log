@@ -1,0 +1,32 @@
+[08-May-2021 18:49:14 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Models/Result.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Models/Result.php on line 8
+[08-May-2021 18:49:14 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Models/Result.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Models/Result.php on line 8
+[09-May-2021 18:50:44 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Models/Result.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Models/Result.php on line 8
+[09-May-2021 18:50:44 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Models/Result.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Models/Result.php on line 8
+[24-Jul-2021 18:47:48 America/Boise] PHP Fatal error:  Uncaught Error: Class 'TCG\Voyager\Models\User' not found in /home1/lormanmy/public_html/lasirene/app/Models/User.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Models/User.php on line 10
+[24-Jul-2021 18:47:48 America/Boise] PHP Fatal error:  Uncaught Error: Class 'TCG\Voyager\Models\User' not found in /home1/lormanmy/public_html/lasirene/app/Models/User.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Models/User.php on line 10
+[24-Jul-2021 18:48:01 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Models/Result.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Models/Result.php on line 8
+[24-Jul-2021 18:48:01 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home1/lormanmy/public_html/lasirene/app/Models/Result.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/lormanmy/public_html/lasirene/app/Models/Result.php on line 8
